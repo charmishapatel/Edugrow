@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189018978851",
+    "project_id": "edugrow1-bbc45",
+    "storage_bucket": "edugrow1-bbc45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189018978851:android:733c21c22f7f3058afcf96",
+        "android_client_info": {
+          "package_name": "com.edugrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dhu6d88YUH5j9OrWVtiqN-iTcl-DZyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
